@@ -1,11 +1,11 @@
 # Site settings
 author: Adrian Samaniego
-title: 
+title: Llathander's Blog
 header-img: img/home-bg.png
 email: llathander@gmail.com
 copyright_name: Adrian Samaniego
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The Coding Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  llathander
